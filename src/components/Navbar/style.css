@@ -1,0 +1,14 @@
+.nav-tabs {
+    background-color: #0b0c10;
+    border-bottom: 1px solid #1F2833 !important;
+}
+
+a.nav-link.active {
+    background-color: #1F2833 !important;
+    border-color: #1F2833 !important;
+    color: #45A29E !important;
+}
+
+a {
+    color: #66FCF1 !important;
+}
