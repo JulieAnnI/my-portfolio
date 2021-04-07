@@ -1,3 +1,9 @@
 .card {
     width: 18rem;
+    background-color: #1F2833 !important;
+    justify-content: center;
+}
+
+.embed-responsive .card-img-top {
+    object-fit: cover;
 }
