@@ -5,4 +5,20 @@ body,
 div[data-reactroot] {
  background-color: #0b0c10;
  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ text-align: justify;
+ text-justify: inter-word;
+}
+
+.box {
+    display: flex;
+    
+}
+.space-around {
+    justify-content: space-around;
+    text-align: left;
+}
+
+.form-control {
+    background-color: #1F2833 !important;
+    color: #66FCF1 !important;
 }
