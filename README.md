@@ -24,7 +24,7 @@
   Updating my portfolio is building towards being employer competitive. Creating a portfolio using React will help set me apart from other developers who do not use latest technologies in their portfolios. Having a place to share my projects is critical to my journey as a developer.
 
   ![image1](./public/images/image1.png) 
-  ![image2](.public/images/image2.png)
+  ![image2](./public/images/image2.png)
   
   ## Credits
   
