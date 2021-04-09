@@ -8,9 +8,9 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <HashRouter>
+    <HashRouter basename="/" >
       <div>
-        <NavTabs basename="/" />
+        <NavTabs />
         <Route exact path="/" component={About} />
         <Route exact path="/my-portfolio" component={About} />
         <Route exact path="/portfolio" component={Portfolio} />
